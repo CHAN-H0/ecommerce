@@ -56,6 +56,7 @@
 ![image](https://github.com/CHAN-H0/ecommerce/assets/130299425/16417adb-8be1-479b-b434-0d77f512d374)
 <br/>
 ## 💥 Trouble Shooting
+[문제 해결](TROUBLE_SHOOTING.md)
 <br/>
 
 ### 🛠️ Tech Stack
