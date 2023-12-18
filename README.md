@@ -52,7 +52,7 @@
 
      
 ## 🔗 ERD
-![image](https://github.com/CHAN-H0/ecommerce/assets/130299425/d5539d7b-2931-4b67-a0b6-e816ca0afc76)
+![image](https://github.com/CHAN-H0/ecommerce/assets/130299425/a7281cf9-4cb6-4320-84d2-ce624cfb6772)
 <br/>
 ## 💥 Trouble Shooting
 [문제 해결](TROUBLE_SHOOTING.md)
