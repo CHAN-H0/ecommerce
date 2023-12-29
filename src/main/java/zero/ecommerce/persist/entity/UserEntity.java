@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 @ToString
 @NoArgsConstructor
 @AllArgsConstructor
-@Entity(name="USERr")
+@Entity(name="USER")
 @Builder
 public class UserEntity implements UserDetails {
 
